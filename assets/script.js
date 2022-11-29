@@ -12,10 +12,10 @@ const passwordString = {
 let generateBtn = document.querySelector("#generate");
 
 function generatePassword (){
-  console.log('Hey! you clicked a button');
-
+  console.log('Hey! you clicked a button'); // To test output function
+let passwordSelection = "";
 // prompt user for password criteria 
-
+let length = window.prompt("What are the length requirments of your password ? Choose characters between 10 and 120 characters long.");
 // Validate the input 
 
 // Generate passwrod based on criteria 
