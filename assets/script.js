@@ -7,7 +7,6 @@ const passwordStrings = {
   numbers: "0123456789",
 };
 
-
 // Assignment code here
 let generateBtn = document.querySelector("#generate");
 
