@@ -8,3 +8,19 @@ In this project, we had to provide functionality to a random password generator.
 
 To acces the password generator site please click [here](https://github.com/Whirlwindraven/To-pass-or-not-to-pass-that-is-the-password.git)
 
+## Screenshot of the password generator 
+Sample of the password generator shown below in the screen shot 
+![Screenshot-of-passwordGenerator](./Password%20generator%20screenshot%20.png)
+
+## Authors 
+
+edX bootcamps LLC
+Fady Khalil
+
+## Credits 
+
+N/a
+
+## Liscense 
+
+Please refer to liscense in repo 
