@@ -6,7 +6,7 @@ In this project, we had to provide functionality to a random password generator.
 
 ## URL
 
-To acces the password generator site please click [here](https://github.com/Whirlwindraven/To-pass-or-not-to-pass-that-is-the-password.git)
+To acces the password generator site please click [here](https://whirlwindraven.github.io/To-pass-or-not-to-pass-that-is-the-password/)
 
 ## Screenshot of the password generator 
 Sample of the password generator shown below in the screen shot 
