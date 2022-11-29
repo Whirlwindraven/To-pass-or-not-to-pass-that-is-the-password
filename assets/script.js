@@ -1,5 +1,14 @@
-// Assignment code here
+// Variables for password use
 
+const passwordString = {
+  lowerCase: "abcedfghijklmnopqrstuvwxyz"
+  upperCase: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  symbols: "!@#$%^&*()+=-§±~"
+  numbers: "0123456789"
+}
+
+
+// Assignment code here
 var generateBtn = document.querySelector("#generate");
 
 function generatePassword (){
@@ -13,7 +22,6 @@ function generatePassword (){
 
 // display password on the page 
 return "Generated password will go here!";
-}
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
