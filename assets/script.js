@@ -14,10 +14,10 @@ function generatePassword (){
   console.log('Hey! you clicked a button'); // To test output function
 let passwordSelection = "";
 // prompt user for password criteria 
-let length = window.prompt("What are the length requirments of your password ? Choose characters between 10 and 120 characters long.");
+let length = window.prompt("What are the length requirments of your password ? Choose characters between 8 and 128 characters long.");
 // Validate the input 
-if (length < 10 || length > 120){
-window.confirm("Be advised to select a number between 10 and 120");
+if (length < 8 || length > 128){
+window.confirm("Be advised to select a number between 8 and 128");
 return;
 } else
 
